@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m Dos Script v.2 https://github.com/milz666/
+	print (''' \033[92m Dos Script v.2 https://github.com/DDoS-Hammer/
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
 	usage : python3 milz-ddos.py [-s] [-p] [-t]
